@@ -1,0 +1,30 @@
+.resize{
+  width: 400px;
+  height: auto;
+}
+
+#walrus-showing{
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#hide-image{
+  display: none;
+}
+
+.clickable-two {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-two:hover {
+  text-decoration: underline;
+}
